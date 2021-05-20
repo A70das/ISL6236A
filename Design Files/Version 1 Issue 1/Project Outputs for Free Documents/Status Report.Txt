@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [ISL6236 DEMO_PCB.PcbDoc]
+   Generated File[ISL6236 DEMO_PCB.TXT]
+   Generated File[ISL6236 DEMO_PCB.LDP]
+   Generated File[ISL6236 DEMO_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:26:34 PM On 7/12/2020
