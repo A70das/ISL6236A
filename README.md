@@ -1,1 +1,1 @@
-# ISL6236A
+# ISL6236A Board
