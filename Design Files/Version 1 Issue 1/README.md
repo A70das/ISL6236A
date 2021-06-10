@@ -25,8 +25,8 @@
 
 
 # Bill of Materials
-| Syntax      | Description | Test Text     |
-|    :----:   |    :----:   |    :----:   |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Sl No      | Designator | Mfg. No.     |   Package   |   Quantity   |
+|    :----:   |    :----:   |    :----:   |    :----:   |    :----:   |
+| Header      | Title       | Here's this   | Here's this   | Here's this   |
+| Paragraph   | Text        | And more      | Here's this   | Here's this   |
 
