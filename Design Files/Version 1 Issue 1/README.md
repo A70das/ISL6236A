@@ -27,6 +27,6 @@
 # Bill of Materials
 | Sl No      | Designator | Mfg. No.     |   Package   |   Quantity   |
 |    :---------------:   |    :---------------:   |    :---------------:   |    :---------------:   |    :---------------:   |
-| Header      | Title       | Here's this   | Here's this   | Here's this   |
-| Paragraph   | Text        | And more      | Here's this   | Here's this   |
+| 1      | Title       | Here's this   | Here's this   | Here's this   |
+| 2   | Text        | And more      | Here's this   | Here's this   |
 
